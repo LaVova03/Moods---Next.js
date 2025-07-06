@@ -13,12 +13,6 @@ src/
 ├── stores/     # State management (MobX, Zustand, Redux, etc.)
 
 ```
-```
-
-Если нужно, могу оформить весь README с этим блоком или помочь с другими разделами!
-
-````
-
 ---
 
 ## Getting Started
